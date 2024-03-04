@@ -1,0 +1,14 @@
+C:\Users\kubol\source\repos\Przeciążenie\Przeciążenie\bin\Debug\net6.0\Przeciążenie.exe
+C:\Users\kubol\source\repos\Przeciążenie\Przeciążenie\bin\Debug\net6.0\Przeciążenie.deps.json
+C:\Users\kubol\source\repos\Przeciążenie\Przeciążenie\bin\Debug\net6.0\Przeciążenie.runtimeconfig.json
+C:\Users\kubol\source\repos\Przeciążenie\Przeciążenie\bin\Debug\net6.0\Przeciążenie.dll
+C:\Users\kubol\source\repos\Przeciążenie\Przeciążenie\bin\Debug\net6.0\Przeciążenie.pdb
+C:\Users\kubol\source\repos\Przeciążenie\Przeciążenie\obj\Debug\net6.0\Przeciążenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubol\source\repos\Przeciążenie\Przeciążenie\obj\Debug\net6.0\Przeciążenie.AssemblyInfoInputs.cache
+C:\Users\kubol\source\repos\Przeciążenie\Przeciążenie\obj\Debug\net6.0\Przeciążenie.AssemblyInfo.cs
+C:\Users\kubol\source\repos\Przeciążenie\Przeciążenie\obj\Debug\net6.0\Przeciążenie.csproj.CoreCompileInputs.cache
+C:\Users\kubol\source\repos\Przeciążenie\Przeciążenie\obj\Debug\net6.0\Przeciążenie.dll
+C:\Users\kubol\source\repos\Przeciążenie\Przeciążenie\obj\Debug\net6.0\refint\Przeciążenie.dll
+C:\Users\kubol\source\repos\Przeciążenie\Przeciążenie\obj\Debug\net6.0\Przeciążenie.pdb
+C:\Users\kubol\source\repos\Przeciążenie\Przeciążenie\obj\Debug\net6.0\Przeciążenie.genruntimeconfig.cache
+C:\Users\kubol\source\repos\Przeciążenie\Przeciążenie\obj\Debug\net6.0\ref\Przeciążenie.dll
